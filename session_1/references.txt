@@ -16,3 +16,7 @@ https://colab.research.google.com/
 
 Readthedocs
 https://www.youtube.com/watch?v=PO4Zd-6a6fA
+
+
+Hackerrank
+https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true
