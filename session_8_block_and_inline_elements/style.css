@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    border:solid black 4px;
+    padding: 10px 20px 30px 40px;
+    margin:20px;
+    
+}
+div{
+    width: 400px;
+
+}
+p#ziad{
+   color:green;
+}
+p.focus{
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.hidden_bear{
+    display: none;
+}
+.bear:hover + .hidden_bear{
+    display: block;
+}
